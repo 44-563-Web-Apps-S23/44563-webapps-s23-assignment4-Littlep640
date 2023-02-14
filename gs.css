@@ -1,0 +1,19 @@
+h4 {color: orange}
+.speaking {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.direction {
+font-family: 'Courier New', Courier, monospace;
+background-color: lightblue;
+color: darkblue;
+}
+.judge {
+    color: rgb(104, 213, 97);
+}
+.imp {
+    color: wheat;
+}
+.vain-woman {
+    color: brown;
+}
