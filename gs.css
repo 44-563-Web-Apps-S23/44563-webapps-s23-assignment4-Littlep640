@@ -17,3 +17,21 @@ color: darkblue;
 .vain-woman {
     color: brown;
 }
+.rich-citizen {
+    color: #fe53ff;
+}
+.table {
+    color: slateblue;
+    border: solid 3px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: rgb(117, 223, 124);
+}
+tr:nth-child(odd){
+    background-color: #5e73fa59;
+}
+p:hover {
+    background-color: rgba(96, 88, 83, 0.605);
+    border-style: solid;
+}
